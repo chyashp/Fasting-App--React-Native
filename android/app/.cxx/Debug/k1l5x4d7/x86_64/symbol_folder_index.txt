@@ -1,0 +1,1 @@
+/Users/karan/Documents/rn-project/Fasting-app/Fasting-App--React-Native/android/app/build/intermediates/cxx/Debug/k1l5x4d7/obj/x86_64
